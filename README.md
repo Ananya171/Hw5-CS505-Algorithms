@@ -1,4 +1,4 @@
-# Hw5-CS505-Algorithms
+# CS505- Diff algorithm
 
 1. hashfile.py - for computing the hash values of each input text file.
 This file can be run on any command line with only the Python version 3 and giving the test file's path directory as an argument.
